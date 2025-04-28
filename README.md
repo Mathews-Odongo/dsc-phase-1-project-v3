@@ -57,12 +57,5 @@ example_dashboard.png: Sample visualization dashboard.
 .gitignore: Specifies files to be ignored by Git.
 
 LICENSE.md: License information for the project.
-
-CONTRIBUTING.md: Guidelines for contributing to the project.​
-PeerJ
-+2
-ilabafricastrathmore.wordpress.com
-+2
-
 📄 License
 This project is licensed under the Learn.co Educational Content License.​
