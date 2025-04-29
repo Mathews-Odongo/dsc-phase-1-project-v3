@@ -52,7 +52,8 @@ student.ipynb: Supplementary notebook with additional analyses.
 
 data/: Directory containing the dataset used in the project.
 
-example_dashboard.png: Sample visualization dashboard.
+dashboard.png: https://public.tableau.com/app/profile/mathews.odongo/viz/Book1_17459007849920/Dashboard1?publish=yes
+
 
 .gitignore: Specifies files to be ignored by Git.
 
