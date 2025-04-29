@@ -58,5 +58,3 @@ dashboard.png: https://public.tableau.com/app/profile/mathews.odongo/viz/Book1_1
 .gitignore: Specifies files to be ignored by Git.
 
 LICENSE.md: License information for the project.
-📄 License
-This project is licensed under the Learn.co Educational Content License.​
